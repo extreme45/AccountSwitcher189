@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Forge / Minecraft development
+run/
+eclipse/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Java
+*.class
+hs_err_pid*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive/local configuration
+*.local
+.env
+.env.*
+accounts.json
+accountswitcher.json
